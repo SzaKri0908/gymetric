@@ -1,4 +1,4 @@
-# Gymetric: gym-exercise-tracker
+# Gymetric
 This project is a Vue.js-based application leveraging Supabase for backend services. It includes functionalities for user authentication, workout management, and a structured user interface.
 
 ### Key Features
