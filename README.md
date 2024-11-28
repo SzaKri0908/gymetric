@@ -31,3 +31,24 @@ The application uses environment variables for configuring Supabase:
 
 - **VUE_APP_SUPABASE_URL**: Your Supabase project URL.
 - **VUE_APP_SUPABASE_ANON_KEY**: Your Supabase anonymous key.
+
+### File Overview
+
+- **init.js**: Configures and initializes the Supabase client.
+- **Home.vue**: Main landing page of the application.
+- **Create.vue**: Allows users to create new workout entries.
+- **WorkoutDetails.vue**: Displays details of a specific workout.
+- **Login.vue**: User login component.
+- **Register.vue**: User registration component.
+
+### Dependencies
+
+- Vue.js
+- Supabase JS SDK
+- Environment variable configuration for backend connection
+
+### Future Enhancements
+
+- Add more workout tracking features.
+- Improve authentication security.
+- Implement responsive design for better mobile support.
