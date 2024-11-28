@@ -16,8 +16,3 @@ npm run serve
 ```bash
 npm run build
 ```
-
-## Run Your Tests
-```bash
-npm run test
-```
