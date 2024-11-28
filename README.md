@@ -31,3 +31,6 @@ The application uses environment variables for configuring Supabase:
 
 - **VUE_APP_SUPABASE_URL**: Your Supabase project URL.
 - **VUE_APP_SUPABASE_ANON_KEY**: Your Supabase anonymous key.
+### .env
+VUE_APP_SUPABASE_URL=https://gbqfcatvrmylttgcgoup.supabase.co
+VUE_APP_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdicWZjYXR2cm15bHR0Z2Nnb3VwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzIzOTkwMjksImV4cCI6MjA0Nzk3NTAyOX0.s61AoAXdcXgPNesFj5x9hefFpE2Hu7NhdYay89bJ9kg
