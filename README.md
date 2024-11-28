@@ -24,3 +24,10 @@ npm run serve
 ```bash
 npm run build
 ```
+
+### Environment Variables
+
+The application uses environment variables for configuring Supabase:
+
+- **VUE_APP_SUPABASE_URL**: Your Supabase project URL.
+- **VUE_APP_SUPABASE_ANON_KEY**: Your Supabase anonymous key.
