@@ -51,4 +51,3 @@ The application uses environment variables for configuring Supabase:
 
 - Add more workout tracking features.
 - Improve authentication security.
-- Implement responsive design for better mobile support.
