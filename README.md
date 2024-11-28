@@ -1,4 +1,4 @@
-# Gyemtric: gym-exercise-tracker
+# Gymetric: gym-exercise-tracker
 
 # Project Setup
 
